@@ -1,4 +1,4 @@
 
-        "1  Gavurun Dölü | Candan Özer | Panama Yayıncılık | 2015\n",
-        "2  Marallar Suya İnince | FM Yayınları | 2006\n",
-        "3  Momo | Michael Ende | Pegasus Yayınları | 2017 "
+        "1  Gavurun Dölü | Candan Özer | Panama Yayıncılık | 2015
+        "2  Marallar Suya İnince | FM Yayınları | 2006
+        "3  Momo | Michael Ende | Pegasus Yayınları | 2017
